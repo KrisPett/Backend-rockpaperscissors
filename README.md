@@ -1,7 +1,7 @@
 # Backend-rockpaperscissors
 School Project
 
-API build in Springboot
+API built in Springboot
 
 Create databse in mysql
 
